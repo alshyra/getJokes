@@ -1,0 +1,5 @@
+= Jokes
+
+Command line program written in Rust, mostly for testing the rust ecosystem.
+
+Program is based on the https://www.blagues-api.fr apis.
